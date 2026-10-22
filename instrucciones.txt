@@ -1,0 +1,6 @@
+Construir el sistema de módulos (las 5 fases del diseño). Al terminar, en la app habrá un apartado «Módulos y portada» para la cuenta de administración, con el candado abierto.
+Instalar el panel de TV, o cualquier módulo futuro, será:
+pulsar «Instalar ZIP»;
+elegir tv-ads-1.0.0.zip;
+asignar perfiles y zona.
+No habrá que subir nada con WinSCP ni tocar carpetas: los módulos se guardan solos fuera de la carpeta de la app. Es el trabajo más largo y lo haría en varias versiones.
